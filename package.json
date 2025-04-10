@@ -11,7 +11,7 @@
     "start": "npm run build && vite preview --host --port $PORT"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.8.2",
+    "@chakra-ui/react": "^2.8.t",
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@types/pouchdb-browser": "^6.1.5",
